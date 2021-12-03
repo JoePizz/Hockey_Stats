@@ -1,4 +1,5 @@
 **<P>Goals per 60 Minutes vs. Individual Expected Goals Per 60 Minutes<P>**
+  <P> All Numbers are as of Dec. 3, 2021<P>
 https://public.tableau.com/views/GoalsChances/GoalsChancesPer60?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <P>The raw data used in this project is from https://www.naturalstattrick.com/.<P>
