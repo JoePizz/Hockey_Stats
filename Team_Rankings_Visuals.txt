@@ -1,0 +1,8 @@
+These rankings are current as of the Jan. 2, 2022 NHL Games.
+<p>Link to Tableau Visual: https://public.tableau.com/views/TeamRankingsDec_28/TeamRankingsDec_28?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link<p>
+
+<p>The raw scores used from this project are from https://www.hockey-reference.com/leagues/NHL_2022_games.html<p>
+
+<p>The aim of this model is to give us more accurate team rankings than the widely used metrics of team points or points percentage.
+<p>This algorithm used to model these rankings is called the "Adjusted plus/minus rating system." It utilizes the score differential of each team's games played as well as whether the team was home or away.<p>
+
