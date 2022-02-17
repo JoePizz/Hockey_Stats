@@ -12,8 +12,8 @@ As we calculated in R, the correlation between ixG and Goals is fairly strong (a
 
 **<P>Examples of players that we can expect to increase their goal scoring pace<P>**
   Kevin Fiala's Individual Expected Goals per Minutes is well above average this season at 1.070 but his Goals per 60 currently sits well below average at 0.208. Fiala is a prime candidate to see some more pucks go in the net soon.
-<p>**Update Feb 17**: Kevin Fiala went on to score 8 Goals at 5 on 5 in his next 22 games. At the time of the original publication he only had 1 goal at 5 on 5 in 23 games played.
+**<p>Update Feb 17:** Kevin Fiala went on to score 8 Goals at 5 on 5 in his next 22 games. At the time of the original publication he only had 1 goal at 5 on 5 in 23 games played.
   
 **<P>Examples of players that we can expect to decrease their goal scoring pace<P>**
 Sam Steel is currently scoring at an above average pace at 1.214 goals per 60 minutes despite his individual expected goals per 60 sitting well below the league average at 0.315. It seems that eventually Sam Steel's luck will run out and he'll experience a goal drought.
-<p>**Update Feb. 17**: Sam Steel went on to score 1 Goal at 5 on 5 in his next 23 games. At the time of the original publication he had 4 goals at 5 on 5 in 18 games played.
+**<p>Update Feb. 17:** Sam Steel went on to score 1 Goal at 5 on 5 in his next 23 games. At the time of the original publication he had 4 goals at 5 on 5 in 18 games played.
