@@ -1,4 +1,4 @@
-These rankings are current as of the Jan. 2, 2022 NHL Games.
+These rankings are current as of the Feb. 25, 2022 NHL Games.
 <p>Link to Tableau Visual: https://public.tableau.com/views/TeamRankingsDec_28/TeamRankingsDec_28?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link<p>
 
 <p>The raw scores used from this project are from https://www.hockey-reference.com/leagues/NHL_2022_games.html<p>
