@@ -5,4 +5,4 @@ These rankings are current as of the Feb. 25, 2022 NHL Games.
 
 <p>The aim of this model is to give us more accurate team rankings than the widely used metrics of team points or points percentage.
 <p>This algorithm used to model these rankings is called the "Adjusted plus/minus rating system." It utilizes the score differential of each team's games played as well as whether the team was home or away.<p>
-
+<p>This visualization shows the biggest difference between where the model ranks each team and the team's league rankings based on Points Percentage.<p>
