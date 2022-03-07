@@ -1,0 +1,33 @@
+team,Rating Rank,rating,gp,wins,losses,otl,pts,Pts_Perc Rank,pts_perc
+Colorado Avalanche,3,1.053576,52,38,10,4,80,1,0.77
+Carolina Hurricanes,2,1.09472,51,36,11,4,76,2,0.75
+Florida Panthers,1,1.144982,52,35,12,5,75,3,0.72
+Tampa Bay Lightning,8,0.630292,50,33,11,6,72,4,0.72
+New York Rangers,9,0.510972,51,33,13,5,71,5,0.7
+Toronto Maple Leafs,6,0.790059,51,33,14,4,70,6,0.69
+St. Louis Blues,5,0.795003,51,31,14,6,68,7,0.67
+Calgary Flames,4,0.968396,50,30,14,6,66,8,0.66
+Minnesota Wild,7,0.742685,49,31,15,3,65,9,0.66
+Pittsburgh Penguins,10,0.381201,53,31,14,8,70,10,0.66
+Boston Bruins,16,0.07798,51,30,17,4,64,11,0.63
+Nashville Predators,13,0.231102,52,30,18,4,64,12,0.62
+Washington Capitals,12,0.346341,53,28,16,9,65,13,0.61
+Los Angeles Kings,14,0.213973,52,28,17,7,63,14,0.61
+Vegas Golden Knights,11,0.351351,52,29,19,4,62,15,0.6
+Edmonton Oilers,15,0.081469,51,28,20,3,59,16,0.58
+Dallas Stars,17,0.010771,51,28,20,3,59,17,0.58
+Anaheim Ducks,19,-0.050967,54,25,20,9,59,18,0.55
+Vancouver Canucks,18,-0.011485,53,25,22,6,56,19,0.53
+Columbus Blue Jackets,22,-0.298547,52,27,24,1,55,20,0.53
+Winnipeg Jets,20,-0.078971,52,22,21,9,53,21,0.51
+San Jose Sharks,24,-0.45399,51,23,22,6,52,22,0.51
+Detroit Red Wings,26,-0.702758,52,23,23,6,52,23,0.5
+New York Islanders,23,-0.432912,47,19,20,8,46,24,0.49
+Ottawa Senators,21,-0.296133,50,19,26,5,43,25,0.43
+Chicago Blackhawks,27,-0.753294,53,19,26,8,46,26,0.43
+New Jersey Devils,25,-0.640117,52,18,29,5,41,27,0.39
+Philadelphia Flyers,28,-0.951103,51,15,26,10,40,28,0.39
+Buffalo Sabres,30,-1.062258,53,16,29,8,40,29,0.38
+Seattle Kraken,29,-0.974571,54,16,33,5,37,30,0.34
+Arizona Coyotes,31,-1.296113,52,14,34,4,32,31,0.31
+Montreal Canadiens,32,-1.421655,52,12,33,7,31,32,0.3

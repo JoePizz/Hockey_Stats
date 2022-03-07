@@ -1,0 +1,122 @@
+﻿date,visitor, visitor_goals,home,home_goals,extra_time
+2022-01-01,Buffalo Sabres,3,Boston Bruins,4,OT
+2022-01-01,Carolina Hurricanes,7,Columbus Blue Jackets,4,no
+2022-01-01,Montreal Canadiens,2,Florida Panthers,5,no
+2022-01-01,Philadelphia Flyers,3,Los Angeles Kings,6,no
+2022-01-01,St. Louis Blues,6,Minnesota Wild,4,no
+2022-01-01,Chicago Blackhawks,1,Nashville Predators,6,no
+2022-01-01,Edmonton Oilers,2,New York Islanders,3,OT
+2022-01-01,Vancouver Canucks,5,Seattle Kraken,2,no
+2022-01-01,Ottawa Senators,0,Toronto Maple Leafs,6,no
+2022-01-02,Calgary Flames,5,Chicago Blackhawks,1,no
+2022-01-02,Anaheim Ducks,2,Colorado Avalanche,4,no
+2022-01-02,Boston Bruins,5,Detroit Red Wings,1,no
+2022-01-02,Tampa Bay Lightning,0,New York Rangers,4,no
+2022-01-02,San Jose Sharks,5,Pittsburgh Penguins,8,no
+2022-01-02,Winnipeg Jets,5,Vegas Golden Knights,4,OT
+2022-01-02,New Jersey Devils,4,Washington Capitals,3,OT
+2022-01-03,Edmonton Oilers,1,New York Rangers,4,no
+2022-01-04,Philadelphia Flyers,1,Anaheim Ducks,4,no
+2022-01-04,Winnipeg Jets,3,Arizona Coyotes,1,no
+2022-01-04,New Jersey Devils,3,Boston Bruins,5,no
+2022-01-04,Tampa Bay Lightning,7,Columbus Blue Jackets,2,no
+2022-01-04,Colorado Avalanche,4,Chicago Blackhawks,3,OT
+2022-01-04,San Jose Sharks,2,Detroit Red Wings,6,no
+2022-01-04,Calgary Flames,2,Florida Panthers,6,no
+2022-01-04,Nashville Predators,3,Vegas Golden Knights,2,no
+2022-01-05,St. Louis Blues,3,Pittsburgh Penguins,5,no
+2022-01-05,Edmonton Oilers,2,Toronto Maple Leafs,4,no
+2022-01-06,Chicago Blackhawks,4,Arizona Coyotes,6,no
+2022-01-06,Minnesota Wild,3,Boston Bruins,2,no
+2022-01-06,San Jose Sharks,3,Buffalo Sabres,2,no
+2022-01-06,Winnipeg Jets,1,Colorado Avalanche,7,no
+2022-01-06,Florida Panthers,5,Dallas Stars,6,SO
+2022-01-06,Nashville Predators,4,Los Angeles Kings,2,no
+2022-01-06,Columbus Blue Jackets,1,New Jersey Devils,3,no
+2022-01-06,Pittsburgh Penguins,6,Philadelphia Flyers,2,no
+2022-01-06,Calgary Flames,1,Tampa Bay Lightning,4,no
+2022-01-06,New York Rangers,1,Vegas Golden Knights,5,no
+2022-01-07,Calgary Flames,3,Carolina Hurricanes,6,
+2022-01-07,Washington Capitals,1,St. Louis Blues,5,
+2022-01-08,New York Rangers,4,Anaheim Ducks,1,
+2022-01-08,Nashville Predators,4,Arizona Coyotes,2,
+2022-01-08,Florida Panthers,4,Carolina Hurricanes,3,OT
+2022-01-08,New Jersey Devils,3,Columbus Blue Jackets,4,
+2022-01-08,Toronto Maple Leafs,4,Colorado Avalanche,5,OT
+2022-01-08,Pittsburgh Penguins,2,Dallas Stars,3,
+2022-01-08,Detroit Red Wings,0,Los Angeles Kings,4,
+2022-01-08,Washington Capitals,2,Minnesota Wild,3,SO
+2022-01-08,San Jose Sharks,3,Philadelphia Flyers,2,OT
+2022-01-08,Boston Bruins,5,Tampa Bay Lightning,2,
+2022-01-08,Chicago Blackhawks,2,Vegas Golden Knights,1,
+2022-01-09,Detroit Red Wings,3,Anaheim Ducks,4,SO
+2022-01-09,Dallas Stars,1,St. Louis Blues,2,
+2022-01-10,Seattle Kraken,3,Colorado Avalanche,4,
+2022-01-10,New York Rangers,1,Los Angeles Kings,3,
+2022-01-10,Boston Bruins,7,Washington Capitals,3,
+2022-01-11,Pittsburgh Penguins,4,Anaheim Ducks,1,
+2022-01-11,Tampa Bay Lightning,6,Buffalo Sabres,1,
+2022-01-11,Chicago Blackhawks,4,Columbus Blue Jackets,2,
+2022-01-11,Vancouver Canucks,2,Florida Panthers,5,
+2022-01-11,Colorado Avalanche,4,Nashville Predators,5,OT
+2022-01-11,Detroit Red Wings,2,San Jose Sharks,3,OT
+2022-01-11,Toronto Maple Leafs,4,Vegas Golden Knights,3,SO
+2022-01-12,Toronto Maple Leafs,1,Arizona Coyotes,2,
+2022-01-12,Montreal Canadiens,1,Boston Bruins,5,
+2022-01-12,Seattle Kraken,2,Dallas Stars,5,
+2022-01-13,Philadelphia Flyers,2,Boston Bruins,3,
+2022-01-13,Columbus Blue Jackets,6,Carolina Hurricanes,0,
+2022-01-13,Ottawa Senators,4,Calgary Flames,1,
+2022-01-13,Montreal Canadiens,2,Chicago Blackhawks,3,OT
+2022-01-13,Winnipeg Jets,3,Detroit Red Wings,0,
+2022-01-13,Pittsburgh Penguins,2,Los Angeles Kings,6,
+2022-01-13,Buffalo Sabres,4,Nashville Predators,1,
+2022-01-13,New Jersey Devils,2,New York Islanders,3,
+2022-01-13,New York Rangers,3,San Jose Sharks,0,
+2022-01-13,Seattle Kraken,1,St. Louis Blues,2,
+2022-01-13,Vancouver Canucks,2,Tampa Bay Lightning,4,
+2022-01-14,Arizona Coyotes,3,Colorado Avalanche,4,SO
+2022-01-14,Dallas Stars,1,Florida Panthers,7,
+2022-01-14,Anaheim Ducks,3,Minnesota Wild,7,
+2022-01-15,Colorado Avalanche,5,Arizona Coyotes,0,
+2022-01-15,Nashville Predators,3,Boston Bruins,4,OT
+2022-01-15,Vancouver Canucks,1,Carolina Hurricanes,4,
+2022-01-15,Anaheim Ducks,0,Chicago Blackhawks,3,
+2022-01-15,Buffalo Sabres,0,Detroit Red Wings,4,
+2022-01-15,Ottawa Senators,6,Edmonton Oilers,4,
+2022-01-15,Columbus Blue Jackets,2,Florida Panthers,9,
+2022-01-15,Washington Capitals,2,New York Islanders,0,
+2022-01-15,New York Rangers,3,Philadelphia Flyers,2,
+2022-01-15,Los Angeles Kings,3,Seattle Kraken,1,
+2022-01-15,Pittsburgh Penguins,2,San Jose Sharks,1,OT
+2022-01-15,Toronto Maple Leafs,6,St. Louis Blues,5,
+2022-01-15,Dallas Stars,1,Tampa Bay Lightning,3,
+2022-01-16,Vancouver Canucks,4,Washington Capitals,2,
+2022-01-17,Montreal Canadiens,2,Arizona Coyotes,5,
+2022-01-17,Detroit Red Wings,3,Buffalo Sabres,2,OT
+2022-01-17,Minnesota Wild,3,Colorado Avalanche,4,SO
+2022-01-17,Philadelphia Flyers,1,New York Islanders,4,
+2022-01-17,Chicago Blackhawks,2,Seattle Kraken,3,SO
+2022-01-17,Los Angeles Kings,2,San Jose Sharks,6,
+2022-01-17,Nashville Predators,3,St. Louis Blues,5,
+2022-01-17,Pittsburgh Penguins,5,Vegas Golden Knights,3,
+2022-01-18,Carolina Hurricanes,7,Boston Bruins,1,
+2022-01-18,Florida Panthers,1,Calgary Flames,5,
+2022-01-18,Montreal Canadiens,5,Dallas Stars,3,
+2022-01-18,Tampa Bay Lightning,6,Los Angeles Kings,4,
+2022-01-18,Vancouver Canucks,3,Nashville Predators,1,
+2022-01-18,Buffalo Sabres,3,Ottawa Senators,1,
+2022-01-18,New York Islanders,4,Philadelphia Flyers,3,SO
+2022-01-18,Winnipeg Jets,3,Washington Capitals,4,OT
+2022-01-19,Colorado Avalanche,2,Anaheim Ducks,0,
+2022-01-19,Arizona Coyotes,4,New Jersey Devils,1,
+2022-01-19,Toronto Maple Leafs,3,New York Rangers,6,
+2022-01-20,Washington Capitals,3,Boston Bruins,4,
+2022-01-20,Dallas Stars,5,Buffalo Sabres,4,
+2022-01-20,Florida Panthers,6,Edmonton Oilers,0,
+2022-01-20,Colorado Avalanche,4,Los Angeles Kings,1,
+2022-01-20,Winnipeg Jets,2,Nashville Predators,5,
+2022-01-20,Columbus Blue Jackets,2,Philadelphia Flyers,1,
+2022-01-20,Ottawa Senators,4,Pittsburgh Penguins,6,
+2022-01-20,San Jose Sharks,2,Seattle Kraken,3,
+2022-01-20,Montreal Canadiens,3,Vegas Golden Knights,4,OT
